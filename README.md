@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @0xanubian
-- 👀 I’m interested in Reverse Engineering, Exploit Development and Low Level Programming.
-- 🌱 I’m currently learning Reverse Engineering, Binary Exploitation.
+- 👀 I like Reverse Engineering, Exploit Development, Low Level Development and malware development.
 - 📫 You can reach me on Discord(@anu6ian) and [Twitter](https://twitter.com/0xanubian)
 
 <!---
