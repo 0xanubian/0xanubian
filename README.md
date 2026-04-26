@@ -1,11 +1,12 @@
 ```json
 {
   "name": "0xanubian",
-  "interest": ["Reverse Engineering", "Exploit Development", "Vulnerability Research", "Low Level Development", "System Programming", "Malware"],
+  "interest": ["Reverse Engineering", "Exploit Development", "Vulnerability Research",
+               "Low Level Development", "System Programming", "Malware"],
   "skills": ["C", "Python", "ASM"],
-  "Socials": Discord(@anu6ian) and [Twitter/X](https://x.com/0xanubian)
 }
 ```
+Discord(@anu6ian) and [Twitter/X](https://x.com/0xanubian)
 <!--- - 👋 Hi, I’m @0xanubian
 - 👀 I like Reverse Engineering, Exploit Development, Low Level Development.
 - 📫 You can reach me on Discord(@anu6ian) and [Twitter/X](https://x.com/0xanubian) --->
