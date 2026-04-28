@@ -2,7 +2,7 @@
 {
   "name": "0xanubian",
   "interest": ["Reverse Engineering", "Exploit Development", "Vulnerability Research",
-               "Low Level Development", "System Programming", "Malware"],
+               "Low Level Development", "Systems Programming", "Malware"],
   "skills": ["C", "Python", "ASM"],
 }
 ```
